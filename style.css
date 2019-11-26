@@ -1,7 +1,8 @@
+/* Not demo related */
 @import url('https://fonts.googleapis.com/css?family=Oswald&display');
 
 :root {
-    --accent: #ff66f;
+    --accent: #ff66bf;
     --dark: #1a2636;
     --light: #EBF5EE;
     --border: 5px solid var(--accent);
